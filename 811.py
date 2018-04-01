@@ -3,11 +3,11 @@ class Solution:
     dic = dict()
 
 
-    def partit(self, S, part):
+    def partit(self,S, part):
         return S.partition(part)
 
 
-    def add(self, S, num):
+    def add(self,S, num):
         if S in Solution.dic.keys():
             Solution.dic[S] = Solution.dic[S] + int(num)
         else:
