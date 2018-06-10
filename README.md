@@ -3,7 +3,7 @@ Solving Leetcode Problems in Python
 
 Below codes are the IDs of Problems in Leetcode-
 
-1\. [Two Sums](+tab+https://github.com/KIRTISHD/Leetcode/tree/master/Two%20Sum)  
+1\. [Two Sums](https://github.com/KIRTISHD/Leetcode/tree/master/Two%20Sum)  
 242\. [Valid Anagram](https://github.com/KIRTISHD/Leetcode/tree/master/Valid%20Anagrams)  
 258\. [Add Digits](https://github.com/KIRTISHD/Leetcode/tree/master/Add%20Digits)  
 804\.[Number of Lines to Write String](https://github.com/KIRTISHD/Leetcode/tree/master/Number-of-Lines-To-Write-String)  
