@@ -12,4 +12,5 @@ Below codes are the IDs of Problems in Leetcode-
 811\.[Subdomain Visit Count](https://github.com/KIRTISHD/Leetcode/tree/master/Subdomain%20Visit%20Count)  
 824\.[Goat Latin](https://github.com/KIRTISHD/Leetcode/tree/master/Goat%20Latin)  
 836\.[Rectangle Overlap](https://github.com/KIRTISHD/Leetcode/tree/master/Rectangle%20Overlap)  
-844\.[Backspace String Compare](https://github.com/KIRTISHD/Leetcode/tree/master/Backspace%20String%20Compare)
+844\.[Backspace String Compare](https://github.com/KIRTISHD/Leetcode/tree/master/Backspace%20String%20Compare)  
+852\. [Peak Index in a Mountain array](https://github.com/KIRTISHD/Leetcode/tree/master/Peak%20Index%20in%20a%20Mountain%20Array)  
