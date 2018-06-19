@@ -5,6 +5,7 @@ Below codes are the IDs of Problems in Leetcode-
 
 1\. [Two Sums](https://github.com/KIRTISHD/Leetcode/tree/master/Two%20Sum)  
 35\. [Search Insert Position](https://github.com/KIRTISHD/Leetcode/tree/master/Search%20Insert%20Position)  
+120\. [Triangle](https://github.com/KIRTISHD/Leetcode/tree/master/Triangle)  
 242\. [Valid Anagram](https://github.com/KIRTISHD/Leetcode/tree/master/Valid%20Anagrams)  
 258\. [Add Digits](https://github.com/KIRTISHD/Leetcode/tree/master/Add%20Digits)  
 278\. [First Bad Version](https://github.com/KIRTISHD/Leetcode/tree/master/First%20Bad%20Version)  
