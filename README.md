@@ -15,3 +15,5 @@ Below codes are the IDs of Problems in Leetcode-
 836\. [Rectangle Overlap](https://github.com/KIRTISHD/Leetcode/tree/master/Rectangle%20Overlap)  
 844\. [Backspace String Compare](https://github.com/KIRTISHD/Leetcode/tree/master/Backspace%20String%20Compare)  
 852\. [Peak Index in a Mountain array](https://github.com/KIRTISHD/Leetcode/tree/master/Peak%20Index%20in%20a%20Mountain%20Array)  
+852\. [Peak Index in a Mountain array](https://github.com/KIRTISHD/Leetcode/tree/master/Peak%20Index%20in%20a%20Mountain%20Array)  
+1295\. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
