@@ -27,7 +27,6 @@ public class Solution {
                     s.Insert(index, smash);
                 }
             }
-
             return s.FirstOrDefault();
     }
 }
